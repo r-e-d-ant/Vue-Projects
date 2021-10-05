@@ -13,4 +13,4 @@ const config = {
 }
 
 const db = firebase.initializeApp(config);
-export default db;
+export default db
